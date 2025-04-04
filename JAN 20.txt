@@ -1,0 +1,8 @@
+INC22973809 Need to perform level set on WST and pos01 after store close at 12:30 PM IST
+
+INC22968280 Need to call Caller tuesday at 8:30 AM ist and verify the issue
+INC22968855
+INC22972847
+INC22973721
+
+INC22972163 Need to perform levelset on wst and pos1 at 1PM ist and verify if reports are showing values or not

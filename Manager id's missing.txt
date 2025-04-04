@@ -1,0 +1,23 @@
+INC23095661 - Sent to qsr
+
+
+
+
+
+
+***********************************************************************
+
+INC23095657
+INC23095688  Per VDR: QSRSoft;
+
+Those are the only 5 employees being returned in the call to regen Security.data (anira pires, caroline efstathiou, gabriel clark, saida ximena garcia, & ana reis)
+In the HR-Identification most recently received from Lifelenz (0000870_LIFELENZ_LZ-HR-Identification_0000002_1_20250316003457923_E7219313.json), only those 5 employees are showing a SSN - the rest are showing null
+
+INC23095690
+INC23095626
+INC23095661 - Still issue persists
+INC23095786 - INC is with lifelenz
+INC23095625 - No return 
+INC23095636 - No return
+INC23095690
+INC23095896 - No return
